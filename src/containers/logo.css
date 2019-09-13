@@ -1,0 +1,9 @@
+.logoImage{
+    max-width: 200px;
+    margin:0px auto;
+    display: block;
+}
+
+.disbaledImage{
+    cursor: default !important;
+}
